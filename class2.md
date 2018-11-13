@@ -19,17 +19,20 @@
 ### User Interview
 * Teacher
     * What software does make school provide to help you run/manage your classroom?
-        * Does that software get the job done?
+        * How well does the software properly accomplish it's task?
         * How does it improve your productivity?
         * In which ways could it be improved?
-        * Who provided your tracker for you?
-            * How well does it get the job done?
-            * Is it scalable for larger classes?
-            * How transferrable is it between classes?
+     * Who provided your tracker for you?
+         * How well has it integrated into your classes?
+         * Is it scalable for larger classes?
+         * How transferrable is it between classes?
+         * How are progress trackers currently archived?
+         * Will accreditation affect the progress tracker?
     * What's the hardest part about being a make school teacher?
         * What in your opinion could improve that?
+        * How will accredidation affect the management of your classroom?
     * What's the dynamic between the software you use and the grading process?
-        * How long does it take for you to administer assignment, grade the assignment, and then get it back to them?
+        * How long does is the grading process, including feedback?
 * Student
     * What's the hardest part about being a make school student?
         * What do traditional colleges have that make school doesn't but would help make school succeed?
